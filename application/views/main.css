@@ -1,0 +1,31 @@
+.header {
+    display: grid;
+    grid-template-columns: 2fr 7fr 2fr;
+}
+
+.logo {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    background-color: red;
+}
+
+.logo_img {
+    width: 25%;
+    height: 25%;
+}
+
+.login_img {
+    width: 25%;
+    height: 25%;
+}
+
+.main_head {
+    background-color: green;
+    text-align: center;
+}
+
+.profile {
+    background-color: blue;
+}
