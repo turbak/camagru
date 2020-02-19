@@ -11,6 +11,11 @@
     background-color: red;
 }
 
+.header_text {
+    font-size: 250%;
+    font-weight: bold;
+}
+
 .logo_img {
     width: 25%;
     height: 25%;
